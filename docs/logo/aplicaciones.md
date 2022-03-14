@@ -22,8 +22,8 @@ Legales, marcas de agua, etc.
 
 <br /><br />
 
-# Logo en dorado
-<img src="../../../assets/images/logo-golden.jpg" width="300" alt="Logo dorado"/>
+# Logo en rojo
+<img src="../../../assets/images/logo-rojo.jpg" width="300" alt="Logo rojo"/>
 <br /><br />
 Este logo debe usarse cuando se necesite mayor fortaleza de imagen sobre todo cuando va a estar sólo. Este es el logo principal para redes sociales sobre todo. Este logo incluye un gradiente y una textura.
 

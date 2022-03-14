@@ -19,7 +19,7 @@ También el logo tiene distintas variaciones para cuando la pieza en la que tien
 <img src="../../../assets/images/logo-horizontal-blanco.jpg" alt="Ladder League"/>
 <br /><br />
 
-<img src="../../../assets/images/logo-horizontal-dorado.jpg" alt="Ladder League"/>
+<img src="../../../assets/images/logo-horizontal-rojo.jpg" alt="Ladder League"/>
 <br />
 <br />
 <br />
