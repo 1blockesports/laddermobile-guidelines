@@ -5,6 +5,7 @@ parent: Logo
 nav_order: 5
 ---
 
+
 # Packs de imágenes
 Este pack se utiliza para utilizar rápidamente sin necesidad de herramientas como photosohop o illustrator.
 
@@ -18,7 +19,6 @@ Este pack se utiliza para utilizar rápidamente sin necesidad de herramientas co
 
 ---
 # Imagotipo horizontal
-
 
 <img src="../../../assets/images/referencia_horizontal_blanco.png" width="200" alt="Logo rojo"/>
 <img src="../../../assets/images/referencia_horizontal_negro.png" width="200" alt="Logo rojo"/>
@@ -34,5 +34,3 @@ Este pack se utiliza para utilizar rápidamente sin necesidad de herramientas co
 <img src="../../../assets/images/referencia_isotipo_rojo.png" width="200" alt="Logo rojo"/>
 
 [Descargar Pack Isotipo](https://drive.google.com/uc?export=download&id=1cL0FiEdTbiwxOB_w5JzkvsMvphDy-d6m){: .btn .btn-outline }
-
----

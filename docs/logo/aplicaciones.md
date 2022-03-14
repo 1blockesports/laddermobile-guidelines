@@ -29,9 +29,9 @@ Este logo debe usarse cuando se necesite mayor fortaleza de imagen sobre todo cu
 
 <br /><br />
 
-[Descargar Pack Illustrator](https://drive.google.com/uc?export=download&id=14MilL3vFBm-PRdRF7VsTLeZU6IFLE_Yx){: .btn .btn-outline }
+[Descargar Pack Illustrator](https://drive.google.com/uc?export=download&id=12TTnYwLEfeDxOvKQKdV9HS-5SXaluvv7){: .btn .btn-outline }
 
-[Descargar Pack EPS](https://drive.google.com/uc?export=download&id=1fO0ZxiY9t3VY5Id2GksxZ6MBNgE0Xhl1){: .btn .btn-outline }
+[Descargar Pack PDF](https://drive.google.com/uc?export=download&id=1bgt6ICJh1qYO8u7UAOazpMidBK6-KcRo){: .btn .btn-outline }
 
 
 *Incluye:*
