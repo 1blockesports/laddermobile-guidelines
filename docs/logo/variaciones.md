@@ -34,10 +34,10 @@ También el logo tiene distintas variaciones para cuando la pieza en la que tien
 <ul>
 <li>Imagotipo Blanco</li>
 <li>Imagotipo Negro</li>
-<li>Imagotipo Dorado</li>
+<li>Imagotipo Rojo</li>
 <li>Isotipo Blanco</li>
 <li>Isotipo Negro</li>
-<li>Isotipo Dorado</li>
+<li>Isotipo Rojo</li>
 </ul>
 <br>
 

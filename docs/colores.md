@@ -117,7 +117,7 @@ Estos colores aplican para presentaciones, infografías u ocasionalmente cuando 
 
 <br>
 
-# Gradiente Dorado en css
+# Gradiente Rojo en css
 <br>
 
 ```css
