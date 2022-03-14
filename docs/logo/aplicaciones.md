@@ -39,9 +39,6 @@ Este logo debe usarse cuando se necesite mayor fortaleza de imagen sobre todo cu
 <li>Imagotipo Blanco</li>
 <li>Imagotipo Negro</li>
 <li>Imagotipo Rojo</li>
-<li>Isotipo Blanco</li>
-<li>Isotipo Negro</li>
-<li>Isotipo Rojo</li>
 </ul>
 <br>
 <br>
