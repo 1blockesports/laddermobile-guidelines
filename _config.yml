@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title:            Ladder Cup '21 Guidelines
+title:            Ladder League Guidelines
 description: >
   Guía de marca de la  '21 de 1blockesports.
 baseurl: '/laddercup-guidelines'
@@ -65,7 +65,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Sitio oficial Ladder Cup '21":
+  "Sitio oficial Ladder League":
     - "https://1blockesports.com/ladder-cup-21"
 
 # Makes Aux links open in a new tab. Default is false

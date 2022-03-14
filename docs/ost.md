@@ -6,7 +6,7 @@ nav_order: 8
 
 # OST LOL
 
-La Ladder Cup '21 cuenta con el permiso de **Riot Games, Inc.** para utilizar la música oficial de LOL.
+La Ladder League cuenta con el permiso de **Riot Games, Inc.** para utilizar la música oficial de LOL.
 
 <br>
 
