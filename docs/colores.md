@@ -32,6 +32,15 @@ Dentro de los colores el logo es versátil aunque hay que evitar colores estride
 </ul>
 </div>
 <div style="width:33%;display:flex;flex-direction:column;align-items:center;justify-content:center">
+<div style="width:70%;height:70px;background-color:#ff0000"></div><br>
+
+<ul style="margin:0;padding:0;list-style:none;">
+<li><strong>HEX</strong>: #ff0000</li>
+<li><strong>RGB</strong>: 255, 0, 0</li>
+<li><strong>CMYK</strong>: 0, 95, 91, 0</li>
+</ul>
+</div>
+<div style="width:33%;display:flex;flex-direction:column;align-items:center;justify-content:center">
 <div style="width:70%;height:70px;  background: rgb(253,231,139);
   background: -moz-linear-gradient(-45deg,  rgba(253,231,139,1) 0%, rgba(226,183,93,1) 100%);
   background: -webkit-linear-gradient(-45deg,  rgba(253,231,139,1) 0%,rgba(226,183,93,1) 100%);
