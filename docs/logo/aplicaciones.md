@@ -45,12 +45,3 @@ Este logo debe usarse cuando se necesite mayor fortaleza de imagen sobre todo cu
 </ul>
 <br>
 <br>
-
-
-[Descargar Pack con Textura Photoshop](https://drive.google.com/uc?export=download&id=1Zvm-v3PFcSewvYulT-K8g40J3AkO_NQQ){: .btn .btn-outline }
-
-*Incluye:*
-<ul>
-<li>Imagotipo con textura dorada (PSD)</li>
-<li>Isotipo con textura dorada (PSD)</li>
-</ul>

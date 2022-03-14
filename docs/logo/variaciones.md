@@ -40,13 +40,3 @@ También el logo tiene distintas variaciones para cuando la pieza en la que tien
 <li>Isotipo Rojo</li>
 </ul>
 <br>
-
-[Descargar Pack con Textura Photoshop](https://drive.google.com/uc?export=download&id=1O8ZcjkCVzRkREdpIvYYyFGDa9tRXvyCQ){: .btn .btn-outline }
-
-*Incluye:*
-<ul>
-<li>Imagotipo con textura dorada (PSD)</li>
-<li>Isotipo con textura dorada (PSD)</li>
-</ul>
-
-
