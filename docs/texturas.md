@@ -36,6 +36,3 @@ También cuando es posible, se añade a logo rojo una textura algo brillosa para
 [Descargar textura Roca 5](https://drive.google.com/uc?export=download&id=10ja-2qzt6mY4XQKPGWnv07fFfzvLLO90){: .btn .btn-outline }
 
 ---------
-
-<img src="../../assets/images/texture-6.png" alt="Referencia textura"/><br>
-[Descargar textura dorada](https://drive.google.com/uc?export=download&id=1V2Z8uvu-HkzwimlNdU5QRNOgdkigMlos){: .btn .btn-outline }

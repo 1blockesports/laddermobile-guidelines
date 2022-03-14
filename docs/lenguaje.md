@@ -12,13 +12,13 @@ Nuestra idea es mostrar siempre la Ladder League como un torneo profesional dedi
 También es necesario aclarar que la vocalización de la Ladder League, <strong>debe incluir</strong> la abreviatura '21.
 
 
-<img src="../../assets/images/wrong-a1.png" alt="Ladder League"/>
+<img src="../../assets/images/wrong-a1.png" alt="Ladder League" style=" background: white; "/>
 <br />
 
 Y de ninguna manera incluir el 2021
 
 
-<img src="../../assets/images/wrong-a2.png" alt="Ladder League"/>
+<img src="../../assets/images/wrong-a2.png" alt="Ladder League" style=" background: white; "/>
 <br />
 
 ## Aplica para

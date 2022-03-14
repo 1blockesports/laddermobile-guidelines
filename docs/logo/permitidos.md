@@ -20,7 +20,7 @@ nav_order: 4
 
 <div style="display:flex;justify-content:space-between;align-items:center">
 <div style="width:40%;padding:0.5rem">
-<img src="../../../assets/images/do-1.png" alt="Ladder League"/>
+<img src="../../../assets/images/do-1.png" alt="Ladder League" style=" background: white; "/>
 <p style="color:#666">Cuando la imagen sea muy pequeña y la legibilidad del título de la copa se vea comprometida puede utilizarse sólo el símbolo.</p>
 </div>
 <div style="width:40%;padding:0.5rem">
@@ -37,11 +37,11 @@ nav_order: 4
 <br>
 <div style="display:flex;justify-content:space-between;align-items:flex-start">
 <div style="width:30%;padding:0.5rem">
-<img src="../../../assets/images/wrong-1.png" alt="Ladder League"/>
+<img src="../../../assets/images/wrong-1.png" alt="Ladder League" style=" background: white; "/>
 <p style="color:#666">No re ordenar el logo, siempre tiene que estar centrado</p>
 </div>
 <div style="width:30%;padding:0.5rem">
-<img src="../../../assets/images/wrong-2.png" alt="Ladder League"/>
+<img src="../../../assets/images/wrong-2.png" alt="Ladder League" style=" background: white; "/>
 <p style="color:#666">No estirar el logo ya que se deforma la perspectiva</p>
 </div>
 <div style="width:30%;padding:0.5rem">
