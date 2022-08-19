@@ -6,7 +6,7 @@ description: "Intentamos que nuestra marca se diferencie de la escena actual de 
 permalink: /
 ---
 
-<img src="assets/images/header.jpg" alt="Ladder League"/>
+<img src="assets/images/header.jpg" alt="Ladder Mobile Cup"/>
 
 Intentamos que nuestra marca se diferencie de la escena actual de esports para aportar algo distinto a la industria. 
 

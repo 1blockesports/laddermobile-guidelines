@@ -6,7 +6,7 @@ nav_order: 8
 
 ## **Soundtracks Generales**
 
-Pedir acceso al drive que contiene todo el soundtrack de la Ladder League.
+Pedir acceso al drive que contiene todo el soundtrack de la Ladder Mobile Cup.
 
 https://drive.google.com/drive/folders/1z5wUVE-RA1gpqIYAQvn8WEN_KxIqVBz3?usp=sharing
 

@@ -12,14 +12,14 @@ También el logo tiene distintas variaciones para cuando la pieza en la que tien
 ## Horizontales
 <br />
 
-<img src="../../../assets/images/logo-horizontal-negro.jpg" alt="Ladder League"/>
+<img src="../../../assets/images/logo-horizontal-negro.jpg" alt="Ladder Mobile Cup"/>
 <br />
 <br />
 
-<img src="../../../assets/images/logo-horizontal-blanco.jpg" alt="Ladder League"/>
+<img src="../../../assets/images/logo-horizontal-blanco.jpg" alt="Ladder Mobile Cup"/>
 <br /><br />
 
-<img src="../../../assets/images/logo-horizontal-rojo.jpg" alt="Ladder League"/>
+<img src="../../../assets/images/logo-horizontal-rojo.jpg" alt="Ladder Mobile Cup"/>
 <br />
 <br />
 <br />
