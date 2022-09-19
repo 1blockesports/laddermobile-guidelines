@@ -11,7 +11,7 @@ Dentro de los colores el logo es versátil aunque hay que evitar colores estride
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;align-items:flex-start">
 <div style="width:33%;display:flex;flex-direction:column;align-items:center;justify-content:center">
-<div style="width:70%;height:70px;background-color:#FFFFFF"></div><br>
+<div style="width:70%;height:70px;background-color:#5546f7"></div><br>
 
 <ul style="margin:0;padding:0;list-style:none;">
 <li><strong>HEX</strong>: #5546f7</li>
@@ -21,7 +21,7 @@ Dentro de los colores el logo es versátil aunque hay que evitar colores estride
 
 </div>
 <div style="width:33%;display:flex;flex-direction:column;align-items:center;justify-content:center">
-<div style="width:70%;height:70px;background-color:#1D1D1B"></div><br>
+<div style="width:70%;height:70px;background-color:#def801"></div><br>
 
 <ul style="margin:0;padding:0;list-style:none;">
 <li><strong>HEX</strong>: #def801</li>
@@ -30,7 +30,7 @@ Dentro de los colores el logo es versátil aunque hay que evitar colores estride
 </ul>
 </div>
 <div style="width:33%;display:flex;flex-direction:column;align-items:center;justify-content:center">
-<div style="width:70%;height:70px;background-color:#1D1D1B"></div><br>
+<div style="width:70%;height:70px;background-color:#000000"></div><br>
 
 <ul style="margin:0;padding:0;list-style:none;">
 <li><strong>HEX</strong>: #000000</li>
@@ -39,7 +39,7 @@ Dentro de los colores el logo es versátil aunque hay que evitar colores estride
 </ul>
 </div>
 <div style="width:33%;display:flex;flex-direction:column;align-items:center;justify-content:center">
-<div style="width:70%;height:70px;background-color:#ff0000"></div><br>
+<div style="width:70%;height:70px;background-color:#FFFFFF"></div><br>
 
 <ul style="margin:0;padding:0;list-style:none;">
 <li><strong>HEX</strong>: #FFFFFF</li>
