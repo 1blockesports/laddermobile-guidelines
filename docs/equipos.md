@@ -13,10 +13,12 @@ Los logos de los equipos están modificados para la liga, pero también en ciert
 ## Leviatán
 
 *Logo LMC*
+
 <img src="../../assets/images/texture-1.png" alt="Referencia textura"/><br>
 [Descargar textura 1](https://drive.google.com/uc?export=download&id=1BergE94LxQHkDaQTM4tl1zrz2POTKxRr){: .btn .btn-outline }
 
 *Logo Origintal*
+
 <img src="../../assets/images/texture-1.png" alt="Referencia textura"/><br>
 [Descargar textura 1](https://drive.google.com/uc?export=download&id=1BergE94LxQHkDaQTM4tl1zrz2POTKxRr){: .btn .btn-outline }
 
@@ -25,10 +27,12 @@ Los logos de los equipos están modificados para la liga, pero también en ciert
 ## Furious Gaming
 
 *Logo LMC*
+
 <img src="../../assets/images/texture-1.png" alt="Referencia textura"/><br>
 [Descargar textura 1](https://drive.google.com/uc?export=download&id=1BergE94LxQHkDaQTM4tl1zrz2POTKxRr){: .btn .btn-outline }
 
 *Logo Origintal*
+
 <img src="../../assets/images/texture-1.png" alt="Referencia textura"/><br>
 [Descargar textura 1](https://drive.google.com/uc?export=download&id=1BergE94LxQHkDaQTM4tl1zrz2POTKxRr){: .btn .btn-outline }
 
@@ -37,10 +41,12 @@ Los logos de los equipos están modificados para la liga, pero también en ciert
 ## Team Leite
 
 *Logo LMC*
+
 <img src="../../assets/images/texture-1.png" alt="Referencia textura"/><br>
 [Descargar textura 1](https://drive.google.com/uc?export=download&id=1BergE94LxQHkDaQTM4tl1zrz2POTKxRr){: .btn .btn-outline }
 
 *Logo Origintal*
+
 <img src="../../assets/images/texture-1.png" alt="Referencia textura"/><br>
 [Descargar textura 1](https://drive.google.com/uc?export=download&id=1BergE94LxQHkDaQTM4tl1zrz2POTKxRr){: .btn .btn-outline }
 
@@ -49,10 +55,12 @@ Los logos de los equipos están modificados para la liga, pero también en ciert
 ## Ebro Gaming
 
 *Logo LMC*
+
 <img src="../../assets/images/texture-1.png" alt="Referencia textura"/><br>
 [Descargar textura 1](https://drive.google.com/uc?export=download&id=1BergE94LxQHkDaQTM4tl1zrz2POTKxRr){: .btn .btn-outline }
 
 *Logo Origintal*
+
 <img src="../../assets/images/texture-1.png" alt="Referencia textura"/><br>
 [Descargar textura 1](https://drive.google.com/uc?export=download&id=1BergE94LxQHkDaQTM4tl1zrz2POTKxRr){: .btn .btn-outline }
 
@@ -61,10 +69,12 @@ Los logos de los equipos están modificados para la liga, pero también en ciert
 ## Mezexis gaming
 
 *Logo LMC*
+
 <img src="../../assets/images/texture-1.png" alt="Referencia textura"/><br>
 [Descargar textura 1](https://drive.google.com/uc?export=download&id=1BergE94LxQHkDaQTM4tl1zrz2POTKxRr){: .btn .btn-outline }
 
 *Logo Origintal*
+
 <img src="../../assets/images/texture-1.png" alt="Referencia textura"/><br>
 [Descargar textura 1](https://drive.google.com/uc?export=download&id=1BergE94LxQHkDaQTM4tl1zrz2POTKxRr){: .btn .btn-outline }
 
@@ -73,10 +83,12 @@ Los logos de los equipos están modificados para la liga, pero también en ciert
 ## EOB
 
 *Logo LMC*
+
 <img src="../../assets/images/texture-1.png" alt="Referencia textura"/><br>
 [Descargar textura 1](https://drive.google.com/uc?export=download&id=1BergE94LxQHkDaQTM4tl1zrz2POTKxRr){: .btn .btn-outline }
 
 *Logo Origintal*
+
 <img src="../../assets/images/texture-1.png" alt="Referencia textura"/><br>
 [Descargar textura 1](https://drive.google.com/uc?export=download&id=1BergE94LxQHkDaQTM4tl1zrz2POTKxRr){: .btn .btn-outline }
 
@@ -85,10 +97,12 @@ Los logos de los equipos están modificados para la liga, pero también en ciert
 ## Stone Movistar
 
 *Logo LMC*
+
 <img src="../../assets/images/texture-1.png" alt="Referencia textura"/><br>
 [Descargar textura 1](https://drive.google.com/uc?export=download&id=1BergE94LxQHkDaQTM4tl1zrz2POTKxRr){: .btn .btn-outline }
 
 *Logo Origintal*
+
 <img src="../../assets/images/texture-1.png" alt="Referencia textura"/><br>
 [Descargar textura 1](https://drive.google.com/uc?export=download&id=1BergE94LxQHkDaQTM4tl1zrz2POTKxRr){: .btn .btn-outline }
 
@@ -97,10 +111,12 @@ Los logos de los equipos están modificados para la liga, pero también en ciert
 ## 404 TNF
 
 *Logo LMC*
+
 <img src="../../assets/images/texture-1.png" alt="Referencia textura"/><br>
 [Descargar textura 1](https://drive.google.com/uc?export=download&id=1BergE94LxQHkDaQTM4tl1zrz2POTKxRr){: .btn .btn-outline }
 
 *Logo Origintal*
+
 <img src="../../assets/images/texture-1.png" alt="Referencia textura"/><br>
 [Descargar textura 1](https://drive.google.com/uc?export=download&id=1BergE94LxQHkDaQTM4tl1zrz2POTKxRr){: .btn .btn-outline }
 
@@ -109,10 +125,12 @@ Los logos de los equipos están modificados para la liga, pero también en ciert
 ## Rosario Central
 
 *Logo LMC*
+
 <img src="../../assets/images/texture-1.png" alt="Referencia textura"/><br>
 [Descargar textura 1](https://drive.google.com/uc?export=download&id=1BergE94LxQHkDaQTM4tl1zrz2POTKxRr){: .btn .btn-outline }
 
 *Logo Origintal*
+
 <img src="../../assets/images/texture-1.png" alt="Referencia textura"/><br>
 [Descargar textura 1](https://drive.google.com/uc?export=download&id=1BergE94LxQHkDaQTM4tl1zrz2POTKxRr){: .btn .btn-outline }
 
@@ -121,10 +139,12 @@ Los logos de los equipos están modificados para la liga, pero también en ciert
 ## Osaka
 
 *Logo LMC*
+
 <img src="../../assets/images/texture-1.png" alt="Referencia textura"/><br>
 [Descargar textura 1](https://drive.google.com/uc?export=download&id=1BergE94LxQHkDaQTM4tl1zrz2POTKxRr){: .btn .btn-outline }
 
 *Logo Origintal*
+
 <img src="../../assets/images/texture-1.png" alt="Referencia textura"/><br>
 [Descargar textura 1](https://drive.google.com/uc?export=download&id=1BergE94LxQHkDaQTM4tl1zrz2POTKxRr){: .btn .btn-outline }
 
