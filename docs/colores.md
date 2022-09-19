@@ -6,7 +6,7 @@ nav_order: 3
 
 # Colores
 
-Dentro de los colores el logo es versátil aunque hay que evitar colores estridentes.
+Dentro de los colores el logo es versátil aunque hay que evitar demasiada estridencia con el amarillo.
 <br><br>  
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;align-items:flex-start">
