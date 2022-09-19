@@ -11,14 +11,14 @@ nav_order: 1
 
 <img src="../../../assets/images/logo-black.jpg" width="300" alt="Logo negro"/>
 <br /><br />
-Este logo es funcional para cuando se requiere de claridad y no de impacto visual, como por ejemplo legales, marcas de agua, etc.
+Este logo es útil para placas con mucha claridad. Fondos blancos o demás.
 
 <br /><br />
 
 # Logo en blanco
 <img src="../../../assets/images/logo-white.jpg" width="300" alt="Logo blanco"/>
 <br /><br />
-Legales, marcas de agua, etc.
+Este logo se puede utilizar cuando hay texturas o imágenes oscuras. Usando el color sencudario del logo.
 
 <br /><br />
 
