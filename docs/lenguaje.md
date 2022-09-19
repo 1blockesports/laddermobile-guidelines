@@ -30,10 +30,10 @@ Ladder Mobile Cup, "The wild circuit"
 
 ----
 
+Para lo que es el lenguaje del nombre de la copa tener en cuenta de no incluir el 2022
+
 <img src="../../assets/images/wrong-a1.png" alt="Ladder Mobile Cup" style=" background: white; "/>
 <br />
-
-Y de ninguna manera incluir el 2022
 
 
 <img src="../../assets/images/wrong-a2.png" alt="Ladder Mobile Cup" style=" background: white; "/>
@@ -42,7 +42,6 @@ Y de ninguna manera incluir el 2022
 ## Aplica para
 <ul>
 <li>Imágenes</li>
-<li>Vocalización de la palabra por parte de casters, locuciones, etc.</li>
 <li>Textos que incluyan la Ladder Mobile Cup, ejemplo: redes sociales.</li>
 <li>Legales</li>
 </ul>
