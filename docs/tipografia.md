@@ -5,10 +5,10 @@ nav_order: 4
 ---
 # Tipografía 
 
-La tipografía que se utiliza es una tipografía fuerte, moderna y versátil, a diferencia de la Morganite, no tiene una compresión tan alta. Aunque hay que aclarar que no tiene versión minúscula. Por lo que es ideal para titulares y textos grandes no así para textos largos.
+La tipografía que se utiliza es una tipografía fuerte, moderna y versátil. Es ideal para titulares y textos grandes no así para textos largos.
 <br><br>
 
-## **Bebas Neue**
+## **Phonk**
 <br><br>
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between;align-items:center">
@@ -33,8 +33,6 @@ La tipografía que se utiliza es una tipografía fuerte, moderna y versátil, a 
 
 
 Esta tipografía es de uso interno, para descargar pedir acceso.
-
-
 
 -------------------
 <br><br>

@@ -6,39 +6,26 @@ nav_order: 5
 
 # Lenguaje
 
-Para la Ladder Mobile Cup el lenguaje tiene que ser de agresión (sin ser explicitamente violento), fuerza, potencia.
+Para la Ladder Mobile Cup el lenguaje tiene que dar aire de ligero, comprensible e inocente en algún punto.
 
 A modo de comparación, la Ladder Cup es una copa de los mejores equipos, la elite, el dorado representa riqueza, glamour, *"bling bling"*.
 
-En cambio la Ladder Mobile Cup es una arena de barro donde todos buscan poder llegar a esa elite de los esports.
+En cambio la Ladder Mobile Cup es una arena de compañerismo, liviandad y calma.
 
 
 ## Ejemplo:
 ```
-Se rompe la tierra,
-Se asoman nuevos equipos(guerreros, luchadores, campeones)
-En esta grieta
-No hay respeto que valga
-Lo que vale es la primera sangre
+Por primera vez en Argentina,
+Llega la Ladder Mobile Cup
 
-Los ultimos en pie se lo llevan todo.
+10 equipos buscan conquistar el lado salvaje de la ciudad.
 
-Ladder Mobile Cup Paraguay
-La primera Liga de lol
-```
+La recompensa.
+$1.200.000 pesos para aquellos que no se dejen vencer
 
-## Ejemplo:
-```
-Este 29 de mayo expandimos la grieta en paraguay
+Rompe la pantalla y unite a tu equipo  favorito en +50 hs de streaming.
 
-10 equipos
-mas de 50 jugadores
-y 10.000 dolares en premios
-
-Ladder Mobile Cup
-
-Estas listo para mas de 60hs de streaming?
-La batalla comienza en twitch 1blockesports (sugerencia)
+Ladder Mobile Cup, "The wild circuit"
 ```
 
 ----
