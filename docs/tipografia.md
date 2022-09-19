@@ -17,9 +17,7 @@ La tipografía que se utiliza es una tipografía fuerte, moderna y versátil. Es
         <h4 style="font-size: 3rem !important;font-weight:100">AA</h4>
         </div>
         <div style="width:54%;overflow-wrap: anywhere;padding: 1rem;font-family:phonkcontrast">
-        ABCDEFGHIJKLMNOPQRSTUVWXYZ
-        abcdefghijklmnopqrstuvwxyz
-        1234567890(,.;:?!$&*)
+<img src="../../assets/images/tipografia.jpg" alt="Ladder Mobile Cup" style=" background: white; "/>
         </div>
         <div style="width:33%">
         <ul>
