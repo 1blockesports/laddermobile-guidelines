@@ -22,12 +22,6 @@ Legales, marcas de agua, etc.
 
 <br /><br />
 
-# Logo en rojo
-<img src="../../../assets/images/logo-rojo.jpg" width="300" alt="Logo rojo"/>
-<br /><br />
-Este logo debe usarse cuando se necesite mayor fortaleza de imagen sobre todo cuando va a estar sólo. Este es el logo principal para redes sociales sobre todo. Este logo incluye un gradiente y una textura.
-
-<br /><br />
 
 [Descargar Pack Illustrator](https://drive.google.com/uc?export=download&id=12TTnYwLEfeDxOvKQKdV9HS-5SXaluvv7){: .btn .btn-outline }
 
@@ -38,7 +32,6 @@ Este logo debe usarse cuando se necesite mayor fortaleza de imagen sobre todo cu
 <ul>
 <li>Imagotipo Blanco</li>
 <li>Imagotipo Negro</li>
-<li>Imagotipo Rojo</li>
 </ul>
 <br>
 <br>
