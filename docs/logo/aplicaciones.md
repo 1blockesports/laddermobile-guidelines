@@ -20,6 +20,11 @@ Este logo es útil para placas con mucha claridad. Fondos blancos o demás.
 <br /><br />
 Este logo se puede utilizar cuando hay texturas o imágenes oscuras. Usando el color sencudario del logo.
 
+# Logo "The wild circuit" Ladder Mobile Cup 
+<img src="../../../assets/images/logo-white.jpg" width="300" alt="Logo blanco"/>
+<br /><br />
+Este logo se tiene que utilizar para cualquier placa que vaya a publicarse online.
+
 <br /><br />
 
 
