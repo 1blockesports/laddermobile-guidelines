@@ -7,7 +7,7 @@ nav_order: 1
 
 # Aplicaciones
 
-# Logo en negro
+# Logo Wild Circuit (Fondos oscuros)
 
 <img src="../../../assets/images/logo-black.jpg" width="300" alt="Logo negro"/>
 <br /><br />
@@ -15,12 +15,19 @@ Este logo es útil para placas con mucha claridad. Fondos blancos o demás.
 
 <br /><br />
 
-# Logo en blanco
+#  Logo Wild Circuit (Fondos claros)
 <img src="../../../assets/images/logo-white.jpg" width="300" alt="Logo blanco"/>
 <br /><br />
 Este logo se puede utilizar cuando hay texturas o imágenes oscuras. Usando el color sencudario del logo.
 
-# Logo "The wild circuit" Ladder Mobile Cup 
+# Logo Ladder Mobile Cup (Fondos oscuros)
+<img src="../../../assets/images/logo-white.jpg" width="300" alt="Logo blanco"/>
+<br /><br />
+Este logo se tiene que utilizar para cualquier placa que vaya a publicarse online.
+
+<br /><br />
+
+# Logo Ladder Mobile Cup (Fondos claros)
 <img src="../../../assets/images/logo-white.jpg" width="300" alt="Logo blanco"/>
 <br /><br />
 Este logo se tiene que utilizar para cualquier placa que vaya a publicarse online.
