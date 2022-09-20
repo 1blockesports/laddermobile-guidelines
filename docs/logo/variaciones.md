@@ -21,10 +21,9 @@ También el logo tiene distintas variaciones para cuando la pieza en la que tien
 <br />
 <br />
 
-[Descargar Pack Illustrator](https://drive.google.com/uc?export=download&id=1N9bqsJwF2qgRI2OEg5Fj18SpgpSXatEx){: .btn .btn-outline }
+[Descargar Pack Illustrator](https://drive.google.com/uc?export=download&id=1nQxKAQ62_E5fltJNo4-uai-TCqAM7Bff){: .btn .btn-outline }
 
-[Descargar Pack PDF](https://drive.google.com/uc?export=download&id=1vs4f9Vn8ml8-TI2jn04guR0WvksrHrI3){: .btn .btn-outline }
-
+[Descargar Pack PDF](https://drive.google.com/uc?export=download&id=13G_OgXl1FGfVizpw_nux6Ic2Rs6PEb95){: .btn .btn-outline }
 
 *Incluye:*
 <ul>
