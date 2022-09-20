@@ -35,15 +35,19 @@ Este logo se tiene que utilizar para cualquier placa que vaya a publicarse onlin
 <br /><br />
 
 
-[Descargar Pack Illustrator](https://drive.google.com/uc?export=download&id=12TTnYwLEfeDxOvKQKdV9HS-5SXaluvv7){: .btn .btn-outline }
+[Descargar Ladder Mobile Cup, The wild Circuit - Illustrator](https://drive.google.com/uc?export=download&id=1YIuH2LQ6zMZyD_85a96E0UoVFzu1VMDz){: .btn .btn-outline }
 
-[Descargar Pack PDF](https://drive.google.com/uc?export=download&id=1bgt6ICJh1qYO8u7UAOazpMidBK6-KcRo){: .btn .btn-outline }
+[Descargar Ladder Mobile Cup, The wild Circuit - PDF](https://drive.google.com/uc?export=download&id=1WX42ebf-Thb5RHWgV2mVzT_uWzlS3N9Z){: .btn .btn-outline }
+
+[Descargar Ladder Mobile Cup - Illustrator](https://drive.google.com/uc?export=download&id=1VATdRj4mjeu3HQmhFaKFXA8dqTpBGuKE){: .btn .btn-outline }
+
+[Descargar Ladder Mobile Cup - PDF](https://drive.google.com/uc?export=download&id=1ZS3bpJ2NL32CSNz0uiyXKW0gfPuUZb6n){: .btn .btn-outline }
 
 
 *Incluye:*
 <ul>
-<li>Imagotipo The Wild Circuit / Ladder Mobile Cup</li>
-<li>Imagotipo Ladder Mobile Cup</li>
+<li>Imagotipo The Wild Circuit / Ladder Mobile Cup - Todos los colores</li>
+<li>Imagotipo Ladder Mobile Cup - Todos los colores</li>
 </ul>
 <br>
 <br>
