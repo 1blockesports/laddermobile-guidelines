@@ -9,26 +9,26 @@ nav_order: 1
 
 # Logo Wild Circuit (Fondos oscuros)
 
-<img src="../../../assets/images/logo-black.jpg" width="300" alt="Logo negro"/>
+<img src="../../../assets/images/logo-lmc_twc_fondos_oscuros.jpg" width="300" alt="Logo negro"/>
 <br /><br />
 Este logo es útil para placas con mucha claridad. Fondos blancos o demás.
 
 <br /><br />
 
 #  Logo Wild Circuit (Fondos claros)
-<img src="../../../assets/images/logo-white.jpg" width="300" alt="Logo blanco"/>
+<img src="../../../assets/images/logo-lmc_twc_fondos_claros.jpg" width="300" alt="Logo blanco"/>
 <br /><br />
 Este logo se puede utilizar cuando hay texturas o imágenes oscuras. Usando el color sencudario del logo.
 
 # Logo Ladder Mobile Cup (Fondos oscuros)
-<img src="../../../assets/images/logo-white.jpg" width="300" alt="Logo blanco"/>
+<img src="../../../assets/images/logo-lmc_fondos_oscuros.jpg" width="300" alt="Logo blanco"/>
 <br /><br />
 Este logo se tiene que utilizar para cualquier placa que vaya a publicarse online.
 
 <br /><br />
 
 # Logo Ladder Mobile Cup (Fondos claros)
-<img src="../../../assets/images/logo-white.jpg" width="300" alt="Logo blanco"/>
+<img src="../../../assets/images/logo-lmc_fondos_claros.jpg" width="300" alt="Logo blanco"/>
 <br /><br />
 Este logo se tiene que utilizar para cualquier placa que vaya a publicarse online.
 
@@ -42,8 +42,8 @@ Este logo se tiene que utilizar para cualquier placa que vaya a publicarse onlin
 
 *Incluye:*
 <ul>
-<li>Imagotipo Blanco</li>
-<li>Imagotipo Negro</li>
+<li>Imagotipo The Wild Circuit / Ladder Mobile Cup</li>
+<li>Imagotipo Ladder Mobile Cup</li>
 </ul>
 <br>
 <br>
